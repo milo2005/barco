@@ -1,0 +1,6 @@
+Class Motor{
+
+	int cilindraje;
+	int fuerza;	
+
+}

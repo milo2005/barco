@@ -1,7 +1,0 @@
-class Llanta{
-
-	int diametro;
-	String material;
-	int grosor;
-
-}
